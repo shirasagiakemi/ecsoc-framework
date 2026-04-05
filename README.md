@@ -112,8 +112,8 @@ cat("Phase:", phase$label, "\n")
 | Phase V threshold | R² < 0.93 | Structural breakdown criterion |
 | CHI supercritical | CHI > 0 | Dominant short-scale fluctuations |
 | CHI subcritical | CHI < 0 | Suppressed short-scale dynamics |
-| ΔP(III) Late-rise | ≥ +0.148 | Stage 2 trajectory criterion |
-| ΔP(III) Suppress | < −0.05 | Stage 1 trajectory criterion |
+| ΔP(III) Late-rise | ≥ +0.15 | Stage 2 trajectory criterion |
+| ΔP(III) Suppress | < −0.10 | Stage 1 trajectory criterion |
 
 ---
 
