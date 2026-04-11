@@ -2,7 +2,8 @@
 
 > **Hypothesis-Generating Framework for Cardiovascular Dynamical Analysis**
 >
-> Okabe H. "Evidence for Fundamentally Heterogeneous Dynamical Pathways to Arrhythmic Collapse Using a Phase-Space Framework." (Preprint, 2025)
+>　Okabe H. Heterogeneous Dynamical Pathways Preceding Ventricular Arrhythmia: 
+A Multi-Cohort Phase-Space Analysis of Cardiovascular Criticality. 2026.　 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Language: R](https://img.shields.io/badge/Language-R%20%3E%3D%204.0-blue)](https://www.r-project.org/)
