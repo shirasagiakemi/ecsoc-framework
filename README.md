@@ -145,10 +145,19 @@ See `docs/methods.md` for data download and preprocessing instructions.
 
 ## Citation
 
-```
-Okabe H. Evidence for Fundamentally Heterogeneous Dynamical Pathways to
-Arrhythmic Collapse Using a Phase-Space Framework. ECSoC Framework —
-Integrated Multi-Cohort Analysis (N=100+SVTDB). 2025.
+**Paper 2 (Accepted):**
+Okabe H. Empirically Constrained Order Parameter Dynamics in 
+Cardiovascular Criticality: A Synergetic Langevin Framework for 
+Arrhythmic Transitions with Cross-Cohort Parameter Estimation 
+and Kramers Escape-Time Validation.
+*Frontiers in Network Physiology.* Accepted 2026.
+
+**Paper 1 (Under Review):**
+Okabe H. Heterogeneous Dynamical Pathways Preceding Ventricular 
+Arrhythmia: A Multi-Cohort Phase-Space Analysis of Cardiovascular 
+Criticality. *Frontiers in Network Physiology.* Under Review 2026.
+
+
 ```
 
 ---
