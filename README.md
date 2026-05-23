@@ -20,19 +20,25 @@ No prospective validation has been performed. Results **must not** be used for c
 
 ## Overview
 
-ECSoC maps cardiovascular dynamics onto a phase space defined by:
+ECSoC (Emergent Criticality and Self-Organised Collapse) is a 
+multi-domain dynamical framework for characterising physiological 
+systems approaching catastrophic failure.
 
-| Axis | Variable | Description |
-|------|----------|-------------|
-| Primary | α₁ (DFA short-scale) | Proximity to the critical point (α₁ ≈ 1.0) |
-| Secondary | R² (DFA fit quality) | Proxy for scaling manifold integrity |
-| Index | CHI = 2(α₁ − α₂) | Criticality Heterogeneity Index |
+The framework proposes that pre-collapse dynamics share a 
+common three-layer mathematical structure across organ systems 
+— independent of the specific physiological mechanism involved.
 
-**Three-Layer Framework:**
-- **Layer 1** — CHI position: global attractor classification
-- **Layer 2** — ΔP(III) trajectory: non-stationary dynamics (Suppress / Late-rise)
-- **Layer 3** — Phase V (R² < 0.93): structural scaling breakdown
+### Published Evidence
 
+| Paper | Domain | Journal | Status |
+|-------|--------|---------|--------|
+| Paper 1 | Cardiac (9 cohorts, N>1,500) | Frontiers in Network Physiology | Under Review |
+| Paper 2 | Theoretical (Langevin/order parameter) | Frontiers in Network Physiology | Accepted 2026 |
+| Paper 3 | Neural EEG (5 cohorts) | [Journal] | In Preparation |
+
+Cross-domain replication: the same three-layer dissociation 
+(CHI scaffold / β traversal / Phase V structural marker) was 
+observed independently in cardiac and neural datasets.
 ---
 
 ## Repository Structure
